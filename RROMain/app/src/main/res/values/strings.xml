@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RRO Main</string>
+    <string name="welcome_text">Welcome to Youtube</string>
+    <string name="featured_video">Featured Video</string>
+    <string name="play">Play</string>
+    <string name="comment_on">Comments here</string>
+    <string name="thumbnail_image">Thumbnail image</string>
+</resources>

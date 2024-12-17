@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RRO Overlay</string>
+    <string name="kid_welcome_text">Welcome to Youtube Kids</string>
+    <string name="cocomelon_video">Cocomelon</string>
+    <string name="comment_off">Comments turned off</string>
+
+</resources>
